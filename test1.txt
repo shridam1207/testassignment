@@ -43,3 +43,6 @@ Example 5:
 
 Access Key: AK6CYourValidAccessKey
 Secret Key: yourValidSecretKey6789012345
+
+validIMA = 'AKIAT47XRNUPY2FORE6T'
+validsecretkey = 'L2jcJQWZPHUrjjiOwFSiajOFMyKy/c/qD/iDQRFQ''
