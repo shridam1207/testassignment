@@ -33,9 +33,6 @@ Access Key: ASIAYourValidAccessKey
 Secret Key: yourValidSecretKey0987654321
 Example 3:
 
-validIMA = 'AKIAT47XRNUPY2FORE6T'
-validsecretkey = 'L2jcJQWZPHUrjjiOwFSiajOFMyKy/c/qD/iDQRFQ''
-
 
 
 Access Key: "A3T7YourValidAccessKey"
